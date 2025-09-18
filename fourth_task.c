@@ -3,6 +3,9 @@
 
 int main()
 {
+    int n;
+    n=1;
+    while 
     // declare  variable, set its value to 1
 
     // create a while loop that runs while the variable is less than or equal to 20
